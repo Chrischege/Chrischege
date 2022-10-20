@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- introducing myself -->
-# 🏄‍♂️ Chris Chege
+# 🏄‍♂️Chris Chege
 
 **`Digital Craftsman`**
 
@@ -23,16 +23,15 @@ the repositories that are of interest to you and to give a star where you feel i
 The journey never ends, let's grow together.
 
 ## Programming Languages
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+- <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 #
 
 ## Frameworks
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/2x/django.png" />
+- <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/2x/django.png" />
 
 #
 
@@ -44,7 +43,7 @@ The journey never ends, let's grow together.
 
 #
 
-## Lets connect(socials)
+## Lets connect
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/2x/twitter--v4.png" />
 
