@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- introducing myself -->
-# :U+1F916: Chris Chege
+# :+1F916: Chris Chege
 Hello, my name is Christopher and I am a web developer. Feel free to checkout 
 the repositories that are of interest to you and feel free to give a star. 
 The journey continues.
@@ -30,15 +30,4 @@ The journey continues.
 ### Frameworks
 <picture></picture>
 
-<details>
-<summary>My top Programming Languages</summary>
 
-| Rank | programming languages|
-|-----:|----------------------|
-|     1|  Python              |
-|     2|  HTML         		  |
-|     3|  CSS          		  |
-
-</details>
-
->>>>>>> 730e3adf9c14d348a15795d26287ed544d1e2581
