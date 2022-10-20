@@ -42,4 +42,7 @@ The journey never ends, let's grow together.
 
 ## Checkout my socials for amazing content
 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/2x/twitter--v4.png" />
+
+
 
