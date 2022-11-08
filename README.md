@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 **`Digital Craftsman`**
 
-Hello, my name is Christopher and I am a web developer. Feel free to checkout 
-the repositories that are of interest to you and to give a star where you feel it deserves. 
+Hello, my name is Christopher and I am a Developer. Feel free to checkout 
+the repositories that are of interest to you. 
 The journey never ends, let's grow together.
 
 ___
