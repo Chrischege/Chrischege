@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **chegechris959@gmail.com**
 
+- ⚡ Fun fact **I code to escape reality.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/se_krys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="se_krys" height="30" width="40" /></a>
