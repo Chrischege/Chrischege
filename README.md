@@ -1,42 +1,22 @@
-<!--
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Christopher Chege</h1>
+<h3 align="center">A passionate software engineer and computer science student.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/se_krys" target="blank"><img src="https://img.shields.io/twitter/follow/se_krys?logo=twitter&style=for-the-badge" alt="se_krys" /></a> </p>
 
-# 🏄‍♂️Chris Chege
+- 🌱 I’m currently learning **Software Development**
 
-**`Digital Craftsman`**
+- 💬 Ask me about **C, Python, html, CSS, Git, Github**
 
-Hello, my name is Christopher and I am a Software Engineer. Feel free to checkout 
-the repositories that are of interest to you. 
-The journey never ends, let's grow together.
+- 📫 How to reach me **chegechris959@gmail.com**
 
-___
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/se_krys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="se_krys" height="30" width="40" /></a>
+</p>
 
-## Programming Languages
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-#
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrischege&show_icons=true&locale=en&layout=compact" alt="chrischege" /></p>
 
-### Frameworks
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/2x/django.png" />
-<br />
-
-#
-
-<details>
-<summary><h3>👨‍💻 Chris' Coding Journey</h3></summary>
-I was not always the ones that developed interest from a young age, matter of fact, I was curious not interested. Part of me wanted to know how things get done in the tech world and so I got down to the basics, and from the moment I wrote my first code, I fell in love. I love to do a little bit of everything so I do switch to graphic design from time to time. I believe a sprinkle here and there of everything keeps the momentum going.
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrischege&" alt="chrischege" /></p>
