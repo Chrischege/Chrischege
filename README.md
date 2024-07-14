@@ -2,7 +2,7 @@
 
 <p>
 <samp>
-    im Chris, i live in KE.<br>
+    I'm Chris, i live in KE.<br>
     :school: MCS/SE Student <em>[soon]</em><br>
     :email:	chegechris959@gmail.com <br>
     𝕏 X:  <a href="https://X.com/SE_krys/">X</a> <br>
